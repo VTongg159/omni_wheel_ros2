@@ -1,0 +1,23 @@
+/**:
+  ros__parameters:
+
+    # ─── TF frames ────────────────────────────────────────────────
+    map_frame:   "map"
+    base_frame:  "base_link"
+    laser_frame: "laser"
+
+    # ─── TinySLAM tuning ─────────────────────────────────────────
+    # sigma_xy    : translational uncertainty for Monte-Carlo search (mm)
+    # sigma_theta : rotational uncertainty in RADIANS (converted internally)
+    # hole_width  : width of laser beam hole in map update (mm)
+    sigma_xy:    100.0
+    sigma_theta: 0.1745   # ~10 degrees
+    hole_width:  600
+
+    # ─── LiDAR ───────────────────────────────────────────────────
+    max_range:    8.0     # metres — readings beyond this are ignored
+    laser_offset: 0.0    # laser offset from robot centre (mm)
+
+    # ─── Map publishing ──────────────────────────────────────────
+    # Publish the occupancy-grid every N laser scans (1 = every scan)
+    update_map_every_n_scans: 1

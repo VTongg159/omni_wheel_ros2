@@ -1,0 +1,75 @@
+# =============================================================================
+#  hector_slam_params.yaml
+#  Parameters for hector_mapping_node (ROS2 Humble)
+#
+#  Load via launch file or:
+#    ros2 run hector_slam_ros2 hector_mapping_node \
+#         --ros-args --params-file config/hector_slam_params.yaml
+# =============================================================================
+
+hector_mapping:
+  ros__parameters:
+
+    # ── Frame IDs ─────────────────────────────────────────────────────────────
+    map_frame:   "map"
+    base_frame:  "base_link"
+    odom_frame:  "odom"     # only used if pub_map_odom_tf: true
+
+    # ── Topic names ───────────────────────────────────────────────────────────
+    scan_topic:  "/scan"    # sensor_msgs/msg/LaserScan
+
+    # ── Map parameters ────────────────────────────────────────────────────────
+    # map_resolution: metres per pixel.
+    #   Smaller = finer detail but slower scan-matching.
+    #   Typical range: 0.025 … 0.1
+    map_resolution:       0.05
+
+    # map_size: side length of the square map in pixels.
+    #   Memory = map_size^2 * map_multi_res_levels bytes (rough).
+    #   Must be a power-of-two for the multi-resolution pyramid.
+    map_size:             1024
+
+    # Start position in the map (fraction of map_size).
+    # 0.5 / 0.5 places the robot at the centre of the map.
+    map_start_x:          0.5
+    map_start_y:          0.5
+
+    # Number of resolution levels for the coarse-to-fine scan matcher.
+    # 3 is a good default; increase to 4–5 for faster robots / larger maps.
+    map_multi_res_levels: 3
+
+    # How often (seconds) to publish the OccupancyGrid.
+    map_pub_period:       2.0
+
+    # ── Update factors ────────────────────────────────────────────────────────
+    # Probability that a cell transitions to FREE when a beam passes through.
+    #   Range: 0.0 – 0.5   (lower = slower to clear obstacles)
+    update_factor_free:      0.4
+
+    # Probability that a cell transitions to OCCUPIED when a beam hits.
+    #   Range: 0.5 – 1.0   (higher = faster to mark obstacles)
+    update_factor_occupied:  0.9
+
+    # Minimum robot movement (metres) before the map is updated.
+    map_update_dist_thresh:  0.4
+
+    # Minimum robot rotation (radians) before the map is updated.
+    map_update_angle_thresh: 0.9   # ~52 degrees
+
+    # ── Laser filter ──────────────────────────────────────────────────────────
+    # Scan points outside [laser_min_dist, laser_max_dist] are discarded.
+    laser_min_dist:  0.4    # metres – discard close-range noise
+    laser_max_dist:  30.0   # metres – discard far range artefacts
+
+    # 3D robots: filter by laser beam height above ground.
+    laser_z_min: -1.0
+    laser_z_max:  1.0
+
+    # ── TF publishing ─────────────────────────────────────────────────────────
+    # Always publish:  map → base_link
+    pub_map_scanmatch_tf: true
+
+    # Optionally publish: map → odom
+    # Enable ONLY if you have an odometry source and want Nav2 compatibility.
+    # Hector SLAM itself does NOT require odometry.
+    pub_map_odom_tf: false
