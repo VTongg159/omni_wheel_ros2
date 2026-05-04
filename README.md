@@ -48,6 +48,19 @@ rviz2 -d src/my_robot/slam_karto/config/slam_toolbox_default.rviz use_sim_time:=
 ```
 thêm map trong rviz, đặt topic thành /map
 
+### **Gmapping**
+
+```bash
+ros2 ros2 launch slam_gmapping slam_gmapping.launch.py use_sim_time:=true
+
+```
+
+```bash
+ros2 run rviz2 rviz2
+```
+thêm map trong rviz, đặt topic thành /map
+
+
 
 ### ** Điều Khiển Robot Omni (xe 3 Bánh)**
 
