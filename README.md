@@ -2,7 +2,7 @@
 
 
 ```bash
-git clone https://github.com/TranThang27/Omni_3_wheel_ROS.git
+git clone https://github.com/VTongg159/omni_wheel_ros2.git
 ```
 
 ```bash
@@ -10,17 +10,44 @@ cd Omni_3_wheel_ROS
 colcon build
 source install/setup.bash 
 ```
-### ** Hiển thị Model trên RViz**
-
-```bash
-ros2 launch my_robot_description display.launch.py
-```
 
 ### **Chạy tren Gazebo**
 
 ```bash
-ros2 launch my_robot_description sim.launch.py
+ros2 launch my_robot_description sim.launch.py use_sim_time:=true
 ```
+
+### **Cartographer2D**
+
+```bash
+ros2 launch my_robot_cartographer cartographer.launch.py use_sim_time:=true
+```
+
+### **Hector_slam2D**
+
+```bash
+ros2 launch hector_slam_ros2 hector_slam.launch.py 
+```
+
+```bash
+ros2 run rviz2 rviz2
+```
+
+thêm map trong rviz, đặt topic thành /map
+
+### **Karto_slam**
+
+```bash
+ros2 launch slam_toolbox online_sync_launch.py use_sim_time:=true
+
+```
+
+```bash
+rviz2 -d src/my_robot/slam_karto/config/slam_toolbox_default.rviz use_sim_time:=true
+
+```
+thêm map trong rviz, đặt topic thành /map
+
 
 ### ** Điều Khiển Robot Omni (xe 3 Bánh)**
 
