@@ -30,6 +30,7 @@ from launch_ros.actions import Node
 def generate_launch_description():
     use_sim_time = LaunchConfiguration('use_sim_time', default='false')
     use_rviz = LaunchConfiguration('use_rviz', default='true')
+    
     my_robot_cartographer_prefix = get_package_share_directory('my_robot_cartographer')
     cartographer_config_dir = LaunchConfiguration('cartographer_config_dir', default=os.path.join(
                                                   my_robot_cartographer_prefix, 'config'))
@@ -56,6 +57,9 @@ def generate_launch_description():
             default_value='false',
             description='Use simulation (Gazebo) clock if true'),
 
+        # ---------------------------------------------------------
+        # NODE CARTOGRAPHER CHÍNH (Đã được tích hợp chuẩn remappings)
+        # ---------------------------------------------------------
         Node(
             package='cartographer_ros',
             executable='cartographer_node',
@@ -63,7 +67,12 @@ def generate_launch_description():
             output='screen',
             parameters=[{'use_sim_time': use_sim_time}],
             arguments=['-configuration_directory', cartographer_config_dir,
-                       '-configuration_basename', configuration_basename]),
+                       '-configuration_basename', configuration_basename],
+            remappings=[
+                ('/imu', '/imu'),   # Thay đổi '/imu' thứ hai nếu topic thực tế của bạn tên khác
+                ('/scan', '/scan')  
+            ]
+        ),
 
         DeclareLaunchArgument(
             'resolution',
@@ -81,6 +90,9 @@ def generate_launch_description():
                               'publish_period_sec': publish_period_sec}.items(),
         ),
 
+        # ---------------------------------------------------------
+        # NODE RVIZ (Đã được khôi phục)
+        # ---------------------------------------------------------
         Node(
             package='rviz2',
             executable='rviz2',

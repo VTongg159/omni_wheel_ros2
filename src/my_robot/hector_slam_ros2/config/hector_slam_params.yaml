@@ -27,7 +27,7 @@ hector_mapping:
     # map_size: side length of the square map in pixels.
     #   Memory = map_size^2 * map_multi_res_levels bytes (rough).
     #   Must be a power-of-two for the multi-resolution pyramid.
-    map_size:             1024
+    map_size:             4096
 
     # Start position in the map (fraction of map_size).
     # 0.5 / 0.5 places the robot at the centre of the map.
@@ -39,7 +39,7 @@ hector_mapping:
     map_multi_res_levels: 3
 
     # How often (seconds) to publish the OccupancyGrid.
-    map_pub_period:       2.0
+    map_pub_period:       1.0
 
     # ── Update factors ────────────────────────────────────────────────────────
     # Probability that a cell transitions to FREE when a beam passes through.
@@ -58,8 +58,8 @@ hector_mapping:
 
     # ── Laser filter ──────────────────────────────────────────────────────────
     # Scan points outside [laser_min_dist, laser_max_dist] are discarded.
-    laser_min_dist:  0.4    # metres – discard close-range noise
-    laser_max_dist:  30.0   # metres – discard far range artefacts
+    laser_min_dist:  0.12    # metres – discard close-range noise
+    laser_max_dist:  3.5   # metres – discard far range artefacts
 
     # 3D robots: filter by laser beam height above ground.
     laser_z_min: -1.0

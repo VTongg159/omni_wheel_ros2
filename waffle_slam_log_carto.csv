@@ -1,0 +1,710 @@
+Linux 6.17.0-23-generic (admin1-ASUS-TUF-Gaming-A15-FA507NU-FA507NU) 	05/11/26 	_x86_64_	(16 CPU)
+
+14:23:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:23:59        0     73007    8.00    0.00    0.00    0.00    8.00     4  cartographer_no
+
+14:23:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:23:59        0     73007    269.00      0.00 1126424   40832   0.26  cartographer_no
+
+14:23:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:00        0     73007    8.00    1.00    0.00    0.00    9.00     2  cartographer_no
+
+14:23:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:00        0     73007    314.00      0.00 1126444   40832   0.26  cartographer_no
+
+14:24:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:01        0     73007    8.00    1.00    0.00    0.00    9.00     7  cartographer_no
+
+14:24:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:01        0     73007    272.00      0.00 1126488   41088   0.26  cartographer_no
+
+14:24:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:02        0     73007    8.00    1.00    0.00    0.00    9.00     6  cartographer_no
+
+14:24:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:02        0     73007    414.00      0.00 1486964   41580   0.27  cartographer_no
+
+14:24:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:03        0     73007    8.00    2.00    0.00    0.00   10.00     6  cartographer_no
+
+14:24:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:03        0     73007    298.00      0.00 1486972   41580   0.27  cartographer_no
+
+14:24:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:04        0     73007    8.00    0.00    0.00    0.00    8.00     4  cartographer_no
+
+14:24:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:04        0     73007    276.00      0.00 1487008   41836   0.27  cartographer_no
+
+14:24:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:05        0     73007    9.00    1.00    0.00    0.00   10.00     2  cartographer_no
+
+14:24:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:05        0     73007    297.00      0.00 1487012   41836   0.27  cartographer_no
+
+14:24:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:06        0     73007    7.00    2.00    0.00    0.00    9.00     0  cartographer_no
+
+14:24:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:06        0     73007    394.00      0.00 1552576   41956   0.27  cartographer_no
+
+14:24:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:07        0     73007    8.00    1.00    0.00    0.00    9.00     0  cartographer_no
+
+14:24:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:07        0     73007    265.00      0.00 1552584   42032   0.27  cartographer_no
+
+14:24:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:08        0     73007    8.00    1.00    0.00    0.00    9.00     8  cartographer_no
+
+14:24:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:08        0     73007    272.00      0.00 1552604   42148   0.27  cartographer_no
+
+14:24:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:09        0     73007    8.00    1.00    0.00    0.00    9.00    13  cartographer_no
+
+14:24:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:09        0     73007    303.00      0.00 1552620   42104   0.27  cartographer_no
+
+14:24:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:10        0     73007    7.00    1.00    0.00    0.00    8.00     2  cartographer_no
+
+14:24:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:10        0     73007    249.00      0.00 1552636   42220   0.27  cartographer_no
+
+14:24:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:11        0     73007    8.00    1.00    0.00    0.00    9.00    14  cartographer_no
+
+14:24:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:11        0     73007    316.00      0.00 1552660   42412   0.27  cartographer_no
+
+14:24:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:12        0     73007    8.00    1.00    0.00    0.00    9.00     2  cartographer_no
+
+14:24:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:12        0     73007    269.00      0.00 1552660   42488   0.27  cartographer_no
+
+14:24:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:13        0     73007    8.00    1.00    0.00    0.00    9.00     1  cartographer_no
+
+14:24:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:13        0     73007    241.00      0.00 1552660   42744   0.27  cartographer_no
+
+14:24:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:14        0     73007    8.00    1.00    0.00    0.00    9.00     8  cartographer_no
+
+14:24:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:14        0     73007    281.00      0.00 1552660   42508   0.27  cartographer_no
+
+14:24:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:15        0     73007    9.00    1.00    0.00    0.00   10.00     8  cartographer_no
+
+14:24:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:15        0     73007    342.00      0.00 1552692   42620   0.27  cartographer_no
+
+14:24:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:16        0     73007    7.00    1.00    0.00    0.00    8.00     7  cartographer_no
+
+14:24:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:16        0     73007    240.00      0.00 1552696   42748   0.27  cartographer_no
+
+14:24:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:17        0     73007    9.00    1.00    0.00    0.00   10.00     0  cartographer_no
+
+14:24:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:17        0     73007    445.00      0.00 1552732   42596   0.27  cartographer_no
+
+14:24:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:18        0     73007    9.00    0.00    0.00    0.00    9.00     4  cartographer_no
+
+14:24:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:18        0     73007    310.00      0.00 1552932   43108   0.28  cartographer_no
+
+14:24:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:19        0     73007   10.00    0.00    0.00    0.00   10.00     3  cartographer_no
+
+14:24:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:19        0     73007    198.00      0.00 1552932   43108   0.28  cartographer_no
+
+14:24:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:20        0     73007    9.00    1.00    0.00    0.00   10.00     2  cartographer_no
+
+14:24:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:20        0     73007    238.00      0.00 1552932   43032   0.28  cartographer_no
+
+14:24:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:21        0     73007   10.00    0.00    0.00    0.00   10.00     3  cartographer_no
+
+14:24:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:21        0     73007    409.00      0.00 1552932   43416   0.28  cartographer_no
+
+14:24:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:22        0     73007    9.00    0.00    0.00    0.00    9.00     2  cartographer_no
+
+14:24:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:22        0     73007    265.00      0.00 1552932   43416   0.28  cartographer_no
+
+14:24:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:23        0     73007   10.00    0.00    0.00    0.00   10.00     6  cartographer_no
+
+14:24:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:23        0     73007    345.00      0.00 1552932   43672   0.28  cartographer_no
+
+14:24:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:24        0     73007   10.00    0.00    0.00    0.00   10.00    10  cartographer_no
+
+14:24:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:24        0     73007    388.00      0.00 1552936   43640   0.28  cartographer_no
+
+14:24:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:25        0     73007   11.00    0.00    0.00    0.00   11.00     6  cartographer_no
+
+14:24:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:25        0     73007    436.00      0.00 1552952   44024   0.28  cartographer_no
+
+14:24:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:26        0     73007   10.00    0.00    0.00    0.00   10.00     7  cartographer_no
+
+14:24:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:26        0     73007    375.00      0.00 1552980   43936   0.28  cartographer_no
+
+14:24:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:27        0     73007   10.00    0.00    0.00    1.00   10.00     2  cartographer_no
+
+14:24:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:27        0     73007    390.00      0.00 1552976   43796   0.28  cartographer_no
+
+14:24:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:28        0     73007   10.00    0.00    0.00    0.00   10.00    12  cartographer_no
+
+14:24:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:28        0     73007    321.00      0.00 1552988   43792   0.28  cartographer_no
+
+14:24:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:29        0     73007    8.00    1.00    0.00    0.00    9.00     2  cartographer_no
+
+14:24:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:29        0     73007    280.00      0.00 1553000   43788   0.28  cartographer_no
+
+14:24:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:30        0     73007    8.00    1.00    0.00    0.00    9.00     7  cartographer_no
+
+14:24:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:30        0     73007    333.00      0.00 1553000   43788   0.28  cartographer_no
+
+14:24:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:31        0     73007    9.00    1.00    0.00    0.00   10.00     7  cartographer_no
+
+14:24:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:31        0     73007    411.00      0.00 1553020   43916   0.28  cartographer_no
+
+14:24:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:32        0     73007    8.00    2.00    0.00    0.00   10.00     8  cartographer_no
+
+14:24:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:32        0     73007    330.00      0.00 1553028   43836   0.28  cartographer_no
+
+14:24:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:33        0     73007    9.00    0.00    0.00    0.00    9.00     7  cartographer_no
+
+14:24:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:33        0     73007    413.00      0.00 1553036   43788   0.28  cartographer_no
+
+14:24:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:34        0     73007    9.00    1.00    0.00    0.00   10.00     4  cartographer_no
+
+14:24:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:34        0     73007    375.00      0.00 1553044   43780   0.28  cartographer_no
+
+14:24:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:35        0     73007    8.00    1.00    0.00    0.00    9.00     6  cartographer_no
+
+14:24:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:35        0     73007    343.00      0.00 1553072   43768   0.28  cartographer_no
+
+14:24:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:36        0     73007    9.00    1.00    0.00    0.00   10.00     7  cartographer_no
+
+14:24:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:36        0     73007    505.00      0.00 1553096   44012   0.28  cartographer_no
+
+14:24:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:37        0     73007    8.00    1.00    0.00    0.00    9.00     8  cartographer_no
+
+14:24:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:37        0     73007    336.00      0.00 1553104   44140   0.28  cartographer_no
+
+14:24:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:38        0     73007   10.00    1.00    0.00    0.00   11.00     0  cartographer_no
+
+14:24:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:38        0     73007    275.00      0.00 1553156   44268   0.28  cartographer_no
+
+14:24:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:39        0     73007    9.00    1.00    0.00    0.00   10.00     6  cartographer_no
+
+14:24:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:39        0     73007    333.00      0.00 1553236   44652   0.29  cartographer_no
+
+14:24:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:40        0     73007   11.00    1.00    0.00    0.00   12.00     4  cartographer_no
+
+14:24:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:40        0     73007    432.00      0.00 1553236   45000   0.29  cartographer_no
+
+14:24:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:41        0     73007    8.00    1.00    0.00    0.00    9.00     3  cartographer_no
+
+14:24:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:41        0     73007    244.00      0.00 1553236   45000   0.29  cartographer_no
+
+14:24:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:42        0     73007    9.00    1.00    0.00    0.00   10.00     3  cartographer_no
+
+14:24:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:42        0     73007    273.00      0.00 1553236   45000   0.29  cartographer_no
+
+14:24:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:43        0     73007    9.00    1.00    0.00    0.00   10.00     3  cartographer_no
+
+14:24:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:43        0     73007    270.00      0.00 1553236   45000   0.29  cartographer_no
+
+14:24:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:44        0     73007    9.00    1.00    0.00    0.00   10.00     7  cartographer_no
+
+14:24:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:44        0     73007    311.00      0.00 1553236   45128   0.29  cartographer_no
+
+14:24:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:45        0     73007   11.00    1.00    0.00    0.00   12.00     6  cartographer_no
+
+14:24:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:45        0     73007    560.00      0.00 1553236   45276   0.29  cartographer_no
+
+14:24:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:46        0     73007   10.00    0.00    0.00    1.00   10.00     2  cartographer_no
+
+14:24:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:46        0     73007    323.00      0.00 1553244   45340   0.29  cartographer_no
+
+14:24:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:47        0     73007   10.00    1.00    0.00    0.00   11.00     8  cartographer_no
+
+14:24:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:47        0     73007    330.00      0.00 1553268   45236   0.29  cartographer_no
+
+14:24:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:48        0     73007    9.00    1.00    0.00    0.00   10.00    12  cartographer_no
+
+14:24:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:48        0     73007    371.00      0.00 1553280   45364   0.29  cartographer_no
+
+14:24:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:49        0     73007   10.00    1.00    0.00    0.00   11.00     6  cartographer_no
+
+14:24:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:49        0     73007    458.00      0.00 1553296   45708   0.29  cartographer_no
+
+14:24:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:50        0     73007    8.00    1.00    0.00    0.00    9.00     3  cartographer_no
+
+14:24:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:50        0     73007    320.00      0.00 1553304   45664   0.29  cartographer_no
+
+14:24:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:51        0     73007    8.00    1.00    0.00    0.00    9.00     0  cartographer_no
+
+14:24:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:51        0     73007    289.00      0.00 1553320   45792   0.29  cartographer_no
+
+14:24:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:52        0     73007    9.00    1.00    0.00    0.00   10.00    12  cartographer_no
+
+14:24:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:52        0     73007    290.00      0.00 1553324   45772   0.29  cartographer_no
+
+14:24:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:53        0     73007    8.00    1.00    0.00    0.00    9.00     0  cartographer_no
+
+14:24:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:53        0     73007    308.00      0.00 1553324   45732   0.29  cartographer_no
+
+14:24:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:54        0     73007    9.00    1.00    0.00    0.00   10.00    10  cartographer_no
+
+14:24:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:54        0     73007    336.00      0.00 1553324   45860   0.29  cartographer_no
+
+14:24:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:55        0     73007   10.00    2.00    0.00    0.00   12.00     3  cartographer_no
+
+14:24:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:55        0     73007    365.00      0.00 1553348   45728   0.29  cartographer_no
+
+14:24:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:56        0     73007   10.00    2.00    0.00    0.00   12.00     8  cartographer_no
+
+14:24:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:56        0     73007    553.00      0.00 1553376   46420   0.30  cartographer_no
+
+14:24:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:57        0     73007   10.00    0.00    0.00    0.00   10.00    10  cartographer_no
+
+14:24:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:57        0     73007    250.00      0.00 1553484   46536   0.30  cartographer_no
+
+14:24:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:58        0     73007   11.00    1.00    0.00    0.00   12.00     4  cartographer_no
+
+14:24:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:58        0     73007    253.00      0.00 1553404   46296   0.30  cartographer_no
+
+14:24:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:24:59        0     73007   23.00    1.00    0.00    0.00   24.00     2  cartographer_no
+
+14:24:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:24:59        0     73007    218.00      0.00 1553532   46272   0.30  cartographer_no
+
+14:24:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:00        0     73007   14.00    0.00    0.00    0.00   14.00     2  cartographer_no
+
+14:24:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:00        0     73007    274.00      0.00 1553696   46644   0.30  cartographer_no
+
+14:25:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:01        0     73007   12.00    0.00    0.00    0.00   12.00     2  cartographer_no
+
+14:25:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:01        0     73007      2.00      0.00 1553696   46644   0.30  cartographer_no
+
+14:25:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:02        0     73007   11.00    0.00    0.00    0.00   11.00     2  cartographer_no
+
+14:25:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:02        0     73007      1.00      0.00 1553696   46644   0.30  cartographer_no
+
+14:25:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:03        0     73007   12.00    0.00    0.00    0.00   12.00     6  cartographer_no
+
+14:25:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:03        0     73007      5.00      0.00 1553696   46644   0.30  cartographer_no
+
+14:25:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:04        0     73007   13.00    1.00    0.00    0.00   14.00     2  cartographer_no
+
+14:25:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:04        0     73007    125.00      0.00 1553696   46608   0.30  cartographer_no
+
+14:25:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:05        0     73007   11.00    0.00    0.00    0.00   11.00    12  cartographer_no
+
+14:25:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:05        0     73007      0.00      0.00 1553696   46608   0.30  cartographer_no
+
+14:25:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:06        0     73007   11.00    0.00    0.00    0.00   11.00    12  cartographer_no
+
+14:25:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:06        0     73007    264.00      0.00 1553672   46572   0.30  cartographer_no
+
+14:25:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:07        0     73007   11.00    0.00    0.00    0.00   11.00     2  cartographer_no
+
+14:25:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:07        0     73007    183.00      0.00 1553676   46772   0.30  cartographer_no
+
+14:25:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:08        0     73007    9.00    0.00    0.00    0.00    9.00     6  cartographer_no
+
+14:25:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:08        0     73007     92.00      0.00 1553708   46760   0.30  cartographer_no
+
+14:25:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:09        0     73007   11.00    0.00    0.00    0.00   11.00     4  cartographer_no
+
+14:25:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:09        0     73007    165.00      0.00 1553540   46604   0.30  cartographer_no
+
+14:25:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:10        0     73007   12.00    0.00    0.00    0.00   12.00     8  cartographer_no
+
+14:25:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:10        0     73007    315.00      0.00 1570140   46848   0.30  cartographer_no
+
+14:25:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:11        0     73007   11.00    0.00    0.00    0.00   11.00     0  cartographer_no
+
+14:25:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:11        0     73007     78.00      0.00 1553796   46468   0.30  cartographer_no
+
+14:25:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:12        0     73007   10.00    1.00    0.00    0.00   11.00     2  cartographer_no
+
+14:25:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:12        0     73007      7.00      0.00 1553796   46468   0.30  cartographer_no
+
+14:25:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:13        0     73007   11.00    0.00    0.00    0.00   11.00     6  cartographer_no
+
+14:25:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:13        0     73007      4.00      0.00 1553796   46468   0.30  cartographer_no
+
+14:25:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:14        0     73007    9.00    1.00    0.00    0.00   10.00    12  cartographer_no
+
+14:25:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:14        0     73007      5.00      0.00 1553796   46468   0.30  cartographer_no
+
+14:25:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:15        0     73007   13.00    1.00    0.00    1.00   14.00     3  cartographer_no
+
+14:25:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:15        0     73007    293.00      0.00 1553796   47356   0.30  cartographer_no
+
+14:25:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:16        0     73007    8.91    0.99    0.00    0.00    9.90    10  cartographer_no
+
+14:25:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:16        0     73007     74.26      0.00 1553804   47324   0.30  cartographer_no
+
+14:25:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:17        0     73007   10.00    0.00    0.00    0.00   10.00     8  cartographer_no
+
+14:25:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:17        0     73007     72.00      0.00 1553828   47324   0.30  cartographer_no
+
+14:25:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:18        0     73007    7.00    1.00    0.00    0.00    8.00    14  cartographer_no
+
+14:25:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:18        0     73007      4.00      0.00 1553828   47324   0.30  cartographer_no
+
+14:25:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:19        0     73007    9.00    1.00    0.00    0.00   10.00     8  cartographer_no
+
+14:25:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:19        0     73007      2.00      0.00 1553828   47324   0.30  cartographer_no
+
+14:25:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:20        0     73007   10.00    1.00    0.00    0.00   11.00     7  cartographer_no
+
+14:25:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:20        0     73007      0.00      0.00 1553828   47324   0.30  cartographer_no
+
+14:25:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:21        0     73007   10.00    0.00    0.00    0.00   10.00     3  cartographer_no
+
+14:25:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:21        0     73007     79.00      0.00 1553856   47084   0.30  cartographer_no
+
+14:25:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:22        0     73007   38.00    1.00    0.00    0.00   39.00     3  cartographer_no
+
+14:25:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:22        0     73007    335.00      0.00 1553920   47888   0.31  cartographer_no
+
+14:25:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:23        0     73007   12.00    1.00    0.00    0.00   13.00     3  cartographer_no
+
+14:25:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:23        0     73007     13.00      0.00 1554064   47888   0.31  cartographer_no
+
+14:25:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:24        0     73007   10.00    0.00    0.00    0.00   10.00     3  cartographer_no
+
+14:25:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:24        0     73007      8.00      0.00 1554064   47888   0.31  cartographer_no
+
+14:25:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:25        0     73007   11.00    1.00    0.00    0.00   12.00     2  cartographer_no
+
+14:25:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:25        0     73007      0.00      0.00 1554064   47888   0.31  cartographer_no
+
+14:25:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:26        0     73007   15.00    1.00    0.00    0.00   16.00     6  cartographer_no
+
+14:25:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:26        0     73007    366.00      0.00 1554064   48704   0.31  cartographer_no
+
+14:25:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:27        0     73007   11.00    0.00    0.00    0.00   11.00     3  cartographer_no
+
+14:25:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:27        0     73007      8.00      0.00 1554064   48704   0.31  cartographer_no
+
+14:25:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:28        0     73007    9.00    0.00    0.00    0.00    9.00     3  cartographer_no
+
+14:25:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:28        0     73007      1.00      0.00 1554064   48704   0.31  cartographer_no
+
+14:25:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:29        0     73007   10.00    1.00    0.00    0.00   11.00    12  cartographer_no
+
+14:25:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:29        0     73007      4.00      0.00 1554200   48832   0.31  cartographer_no
+
+14:25:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:30        0     73007   10.00    1.00    0.00    0.00   11.00     2  cartographer_no
+
+14:25:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:30        0     73007      3.00      0.00 1554200   48832   0.31  cartographer_no
+
+14:25:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:31        0     73007   13.00    1.00    0.00    0.00   14.00    12  cartographer_no
+
+14:25:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:31        0     73007    200.00      0.00 1554200   49220   0.32  cartographer_no
+
+14:25:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:32        0     73007   11.00    0.00    0.00    0.00   11.00     4  cartographer_no
+
+14:25:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:32        0     73007      5.00      0.00 1554200   49220   0.32  cartographer_no
+
+14:25:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:33        0     73007   10.00    1.00    0.00    0.00   11.00    14  cartographer_no
+
+14:25:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:33        0     73007      6.00      0.00 1554200   49220   0.32  cartographer_no
+
+14:25:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:34        0     73007   12.00    1.00    0.00    0.00   13.00     2  cartographer_no
+
+14:25:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:34        0     73007      3.00      0.00 1554200   49220   0.32  cartographer_no
+
+14:25:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:35        0     73007   14.00    1.00    0.00    0.00   15.00     0  cartographer_no
+
+14:25:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:35        0     73007    300.00      0.00 1554200   49532   0.32  cartographer_no
+
+14:25:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:36        0     73007   11.00    1.00    0.00    0.00   12.00     2  cartographer_no
+
+14:25:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:36        0     73007      4.00      0.00 1554200   49532   0.32  cartographer_no
+
+14:25:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:37        0     73007   11.00    1.00    0.00    0.00   12.00     8  cartographer_no
+
+14:25:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:37        0     73007      1.00      0.00 1554200   49532   0.32  cartographer_no
+
+14:25:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:38        0     73007    9.00    1.00    0.00    1.00   10.00     0  cartographer_no
+
+14:25:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:38        0     73007      4.00      0.00 1554332   49532   0.32  cartographer_no
+
+14:25:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:39        0     73007   15.00    1.00    0.00    0.00   16.00     2  cartographer_no
+
+14:25:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:39        0     73007    254.00      0.00 1554332   49716   0.32  cartographer_no
+
+14:25:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:40        0     73007    9.00    1.00    0.00    0.00   10.00    14  cartographer_no
+
+14:25:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:40        0     73007      2.00      0.00 1554332   49716   0.32  cartographer_no
+
+14:25:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:41        0     73007   11.00    0.00    0.00    0.00   11.00    14  cartographer_no
+
+14:25:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:41        0     73007      2.00      0.00 1554332   49716   0.32  cartographer_no
+
+14:25:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:42        0     73007   47.00    1.00    0.00    0.00   48.00     6  cartographer_no
+
+14:25:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:42        0     73007     18.00      0.00 1554332   49844   0.32  cartographer_no
+
+14:25:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:43        0     73007    9.00    1.00    0.00    0.00   10.00     4  cartographer_no
+
+14:25:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:43        0     73007      0.00      0.00 1554332   49844   0.32  cartographer_no
+
+14:25:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:44        0     73007   17.00    0.00    0.00    0.00   17.00     2  cartographer_no
+
+14:25:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:44        0     73007    372.00      0.00 1554332   50360   0.32  cartographer_no
+
+14:25:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:45        0     73007   13.00    1.00    0.00    0.00   14.00     7  cartographer_no
+
+14:25:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:45        0     73007      9.00      0.00 1554476   50360   0.32  cartographer_no
+
+14:25:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:46        0     73007   11.00    0.00    0.00    0.00   11.00    14  cartographer_no
+
+14:25:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:46        0     73007      2.00      0.00 1554476   50360   0.32  cartographer_no
+
+14:25:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:47        0     73007   13.00    1.00    0.00    0.00   14.00     2  cartographer_no
+
+14:25:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:47        0     73007      4.00      0.00 1554476   50360   0.32  cartographer_no
+
+14:25:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:48        0     73007   15.00    0.00    0.00    0.00   15.00     2  cartographer_no
+
+14:25:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:48        0     73007    268.00      0.00 1554476   50580   0.32  cartographer_no
+
+14:25:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:49        0     73007   13.00    0.00    0.00    0.00   13.00     8  cartographer_no
+
+14:25:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:49        0     73007      2.00      0.00 1554476   50580   0.32  cartographer_no
+
+14:25:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:50        0     73007   12.00    1.00    0.00    0.00   13.00     3  cartographer_no
+
+14:25:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:50        0     73007      6.00      0.00 1554476   50580   0.32  cartographer_no
+
+14:25:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:51        0     73007   15.00    0.00    0.00    0.00   15.00     3  cartographer_no
+
+14:25:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:51        0     73007      5.00      0.00 1554476   50580   0.32  cartographer_no
+
+14:25:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:52        0     73007   16.00    0.00    0.00    0.00   16.00     2  cartographer_no
+
+14:25:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:52        0     73007    301.00      0.00 1554476   51356   0.33  cartographer_no
+
+14:25:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:53        0     73007   14.00    0.00    0.00    0.00   14.00    12  cartographer_no
+
+14:25:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:53        0     73007      3.00      0.00 1554476   51356   0.33  cartographer_no
+
+14:25:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:54        0     73007   10.00    2.00    0.00    0.00   12.00     8  cartographer_no
+
+14:25:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:54        0     73007     47.00      0.00 1555152   51740   0.33  cartographer_no
+
+14:25:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:25:55        0     73007   10.00    1.00    0.00    0.00   11.00    12  cartographer_no
+
+14:25:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:25:55        0     73007      1.00      0.00 1555152   51740   0.33  cartographer_no
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0     73007   10.77    0.70    0.00    0.03   11.47     -  cartographer_no
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:        0     73007    211.28      0.00 1540491   46089   0.30  cartographer_no

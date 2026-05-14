@@ -1,48 +1,7 @@
-# ROS build and install directories
 build/
 install/
 log/
-devel/
-.catkin_workspace
 
-# ROS generated files
-*.dae
-*.srdf
-*.defs
-*.in
-CMakeFiles/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-.env
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.DS_Store
-
-# Gazebo
-.gazebo/
-*.world.log
-
-# Build artifacts
-*.o
-*.a
-*.lo
-*.so.1
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
-# Generated files
-frames_*.gv
-frames_*.pdf
+*.db3
+*.mcap
+rosbag2_*/

@@ -1,0 +1,704 @@
+Linux 6.17.0-23-generic (admin1-ASUS-TUF-Gaming-A15-FA507NU-FA507NU) 	05/11/26 	_x86_64_	(16 CPU)
+
+14:34:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:05        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:34:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:05        0     79497      2.00      0.00  975624   40368   0.26  sync_slam_toolb
+
+14:34:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:06        0     79497    4.00    1.00    0.00    0.00    5.00     4  sync_slam_toolb
+
+14:34:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:06        0     79497      4.00      0.00  975624   40368   0.26  sync_slam_toolb
+
+14:34:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:07        0     79497    5.00    1.00    0.00    0.00    6.00     4  sync_slam_toolb
+
+14:34:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:07        0     79497    358.00      0.00 1502612   41584   0.27  sync_slam_toolb
+
+14:34:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:08        0     79497    4.00    1.00    0.00    0.00    5.00     8  sync_slam_toolb
+
+14:34:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:08        0     79497     15.00      0.00 1502612   41584   0.27  sync_slam_toolb
+
+14:34:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:09        0     79497    3.00    1.00    0.00    0.00    4.00     4  sync_slam_toolb
+
+14:34:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:09        0     79497      5.00      0.00 1502612   41712   0.27  sync_slam_toolb
+
+14:34:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:10        0     79497    4.00    0.00    0.00    0.00    4.00     4  sync_slam_toolb
+
+14:34:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:10        0     79497      2.00      0.00 1502612   41712   0.27  sync_slam_toolb
+
+14:34:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:11        0     79497    4.00    0.00    0.00    0.00    4.00     4  sync_slam_toolb
+
+14:34:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:11        0     79497      2.00      0.00 1502612   41712   0.27  sync_slam_toolb
+
+14:34:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:12        0     79497    4.00    1.00    0.00    0.00    5.00     4  sync_slam_toolb
+
+14:34:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:12        0     79497      3.00      0.00 1502612   41712   0.27  sync_slam_toolb
+
+14:34:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:13        0     79497    3.00    0.00    0.00    0.00    3.00    14  sync_slam_toolb
+
+14:34:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:13        0     79497      2.00      0.00 1502612   41712   0.27  sync_slam_toolb
+
+14:34:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:14        0     79497    3.00    1.00    0.00    0.00    4.00     6  sync_slam_toolb
+
+14:34:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:14        0     79497      3.00      0.00 1502612   41712   0.27  sync_slam_toolb
+
+14:34:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:15        0     79497    7.00    1.00    0.00    0.00    8.00    12  sync_slam_toolb
+
+14:34:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:15        0     79497    132.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:16        0     79497    3.00    0.00    0.00    0.00    3.00    12  sync_slam_toolb
+
+14:34:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:16        0     79497      5.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:17        0     79497    4.00    1.00    0.00    0.00    5.00    12  sync_slam_toolb
+
+14:34:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:17        0     79497      3.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:18        0     79497    4.00    1.00    0.00    0.00    5.00     6  sync_slam_toolb
+
+14:34:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:18        0     79497      3.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:19        0     79497    4.00    0.00    0.00    0.00    4.00    10  sync_slam_toolb
+
+14:34:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:19        0     79497      2.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:20        0     79497    4.00    1.00    0.00    0.00    5.00    14  sync_slam_toolb
+
+14:34:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:20        0     79497      3.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:21        0     79497    7.00    0.00    0.00    0.00    7.00    12  sync_slam_toolb
+
+14:34:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:21        0     79497      8.00      0.00 1502612   42096   0.27  sync_slam_toolb
+
+14:34:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:22        0     79497    2.00    0.00    0.00    0.00    2.00    12  sync_slam_toolb
+
+14:34:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:22        0     79497      3.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:23        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:34:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:23        0     79497      2.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:24        0     79497    3.00    1.00    0.00    0.00    4.00     8  sync_slam_toolb
+
+14:34:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:24        0     79497      3.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:25        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:25        0     79497      2.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:26        0     79497    5.00    0.00    0.00    0.00    5.00     8  sync_slam_toolb
+
+14:34:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:26        0     79497     11.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:27        0     79497    3.00    0.00    0.00    0.00    3.00    10  sync_slam_toolb
+
+14:34:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:27        0     79497      2.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:28        0     79497    3.00    0.00    0.00    0.00    3.00     4  sync_slam_toolb
+
+14:34:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:28        0     79497      3.00      0.00 1502612   42224   0.27  sync_slam_toolb
+
+14:34:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:29        0     79497    4.00    0.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:34:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:29        0     79497      2.00      0.00 1502612   42352   0.27  sync_slam_toolb
+
+14:34:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:30        0     79497    3.00    0.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:34:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:30        0     79497      2.00      0.00 1502612   42352   0.27  sync_slam_toolb
+
+14:34:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:31        0     79497    3.00    0.00    0.00    0.00    3.00     2  sync_slam_toolb
+
+14:34:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:31        0     79497      3.00      0.00 1502612   42352   0.27  sync_slam_toolb
+
+14:34:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:32        0     79497    5.00    0.00    0.00    0.00    5.00    12  sync_slam_toolb
+
+14:34:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:32        0     79497     12.00      0.00 1502612   42480   0.27  sync_slam_toolb
+
+14:34:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:33        0     79497    3.00    0.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:34:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:33        0     79497      2.00      0.00 1502612   42480   0.27  sync_slam_toolb
+
+14:34:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:34        0     79497    3.00    0.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:34:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:34        0     79497      2.00      0.00 1502612   42480   0.27  sync_slam_toolb
+
+14:34:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:35        0     79497    3.00    0.00    0.00    0.00    3.00    12  sync_slam_toolb
+
+14:34:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:35        0     79497      3.00      0.00 1502612   42480   0.27  sync_slam_toolb
+
+14:34:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:36        0     79497    2.00    1.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:36        0     79497      2.00      0.00 1502612   42480   0.27  sync_slam_toolb
+
+14:34:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:37        0     79497    3.00    0.00    0.00    0.00    3.00    10  sync_slam_toolb
+
+14:34:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:37        0     79497      3.00      0.00 1502612   42480   0.27  sync_slam_toolb
+
+14:34:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:38        0     79497    5.00    0.00    0.00    0.00    5.00    14  sync_slam_toolb
+
+14:34:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:38        0     79497     11.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:39        0     79497    3.00    1.00    0.00    0.00    4.00    12  sync_slam_toolb
+
+14:34:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:39        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:40        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:34:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:40        0     79497      3.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:41        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:41        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:42        0     79497    2.00    1.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:42        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:43        0     79497    5.00    0.00    0.00    0.00    5.00     6  sync_slam_toolb
+
+14:34:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:43        0     79497     10.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:44        0     79497    3.00    1.00    0.00    0.00    4.00     8  sync_slam_toolb
+
+14:34:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:44        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:45        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:45        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:46        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:34:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:46        0     79497      3.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:47        0     79497    5.00    0.00    0.00    0.00    5.00    10  sync_slam_toolb
+
+14:34:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:47        0     79497      7.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:48        0     79497    2.00    1.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:34:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:48        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:49        0     79497    3.00    0.00    0.00    0.00    3.00    10  sync_slam_toolb
+
+14:34:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:49        0     79497      3.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:50        0     79497    2.00    1.00    0.00    0.00    3.00    10  sync_slam_toolb
+
+14:34:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:50        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:51        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:34:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:51        0     79497      3.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:52        0     79497    3.00    1.00    0.00    0.00    4.00    10  sync_slam_toolb
+
+14:34:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:52        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:53        0     79497    2.00    0.00    0.00    0.00    2.00     8  sync_slam_toolb
+
+14:34:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:53        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:54        0     79497    6.00    0.00    0.00    0.00    6.00     2  sync_slam_toolb
+
+14:34:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:54        0     79497      9.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:55        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:34:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:55        0     79497      2.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:56        0     79497    3.00    0.00    0.00    0.00    3.00    14  sync_slam_toolb
+
+14:34:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:56        0     79497      3.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:57        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:57        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:58        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:34:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:58        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:34:59        0     79497    2.00    0.00    0.00    0.00    2.00     8  sync_slam_toolb
+
+14:34:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:34:59        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:34:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:00        0     79497    5.00    1.00    0.00    0.00    6.00     0  sync_slam_toolb
+
+14:34:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:00        0     79497      7.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:01        0     79497    3.00    1.00    0.00    0.00    4.00     6  sync_slam_toolb
+
+14:35:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:01        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:02        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:35:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:02        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:03        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:03        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:04        0     79497    5.00    0.00    0.00    0.00    5.00     0  sync_slam_toolb
+
+14:35:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:04        0     79497      6.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:05        0     79497    3.00    1.00    0.00    0.00    4.00     0  sync_slam_toolb
+
+14:35:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:05        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:06        0     79497    3.00    0.00    0.00    0.00    3.00     2  sync_slam_toolb
+
+14:35:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:06        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:07        0     79497    3.00    0.00    0.00    0.00    3.00     4  sync_slam_toolb
+
+14:35:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:07        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:08        0     79497    3.00    1.00    0.00    0.00    4.00     4  sync_slam_toolb
+
+14:35:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:08        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:09        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:09        0     79497      0.00      0.00 1502612   42608   0.27  sync_slam_toolb
+
+14:35:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:10        0     79497    5.00    1.00    0.00    0.00    6.00     2  sync_slam_toolb
+
+14:35:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:10        0     79497      9.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:11        0     79497    2.00    0.00    0.00    0.00    2.00     4  sync_slam_toolb
+
+14:35:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:11        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:12        0     79497    3.00    1.00    0.00    0.00    4.00     4  sync_slam_toolb
+
+14:35:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:12        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:13        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:13        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:14        0     79497    5.00    0.00    0.00    0.00    5.00     8  sync_slam_toolb
+
+14:35:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:14        0     79497      5.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:15        0     79497    3.00    1.00    0.00    0.00    4.00     8  sync_slam_toolb
+
+14:35:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:15        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:16        0     79497    3.00    0.00    0.00    0.00    3.00     2  sync_slam_toolb
+
+14:35:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:16        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:17        0     79497    3.00    0.00    0.00    0.00    3.00     2  sync_slam_toolb
+
+14:35:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:17        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:18        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:18        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:19        0     79497    3.00    1.00    0.00    0.00    4.00     8  sync_slam_toolb
+
+14:35:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:19        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:20        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:20        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:21        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:21        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:22        0     79497    3.00    2.00    0.00    0.00    5.00     0  sync_slam_toolb
+
+14:35:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:22        0     79497      8.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:23        0     79497    3.00    1.00    0.00    0.00    4.00     0  sync_slam_toolb
+
+14:35:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:23        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:24        0     79497    3.00    0.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:35:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:24        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:25        0     79497    3.00    0.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:35:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:25        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:26        0     79497    3.00    1.00    0.00    0.00    4.00     4  sync_slam_toolb
+
+14:35:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:26        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:27        0     79497    3.00    0.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:35:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:27        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:28        0     79497    2.00    1.00    0.00    0.00    3.00     0  sync_slam_toolb
+
+14:35:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:28        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:29        0     79497    6.00    0.00    0.00    0.00    6.00     4  sync_slam_toolb
+
+14:35:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:29        0     79497      6.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:30        0     79497    3.00    0.00    0.00    0.00    3.00     2  sync_slam_toolb
+
+14:35:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:30        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:31        0     79497    1.98    0.99    0.00    0.00    2.97     4  sync_slam_toolb
+
+14:35:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:31        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:32        0     79497    3.00    0.00    0.00    0.00    3.00     4  sync_slam_toolb
+
+14:35:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:32        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:33        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:35:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:33        0     79497      0.00      0.00 1502612   42736   0.27  sync_slam_toolb
+
+14:35:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:34        0     79497    5.00    0.00    0.00    0.00    5.00     6  sync_slam_toolb
+
+14:35:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:34        0     79497      8.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:35        0     79497    3.00    1.00    0.00    0.00    4.00     6  sync_slam_toolb
+
+14:35:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:35        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:36        0     79497    2.00    0.00    0.00    0.00    2.00     8  sync_slam_toolb
+
+14:35:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:36        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:37        0     79497    3.00    1.00    0.00    0.00    4.00     6  sync_slam_toolb
+
+14:35:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:37        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:38        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:38        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:39        0     79497    5.00    1.00    0.00    0.00    6.00     8  sync_slam_toolb
+
+14:35:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:39        0     79497      7.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:40        0     79497    3.00    0.00    0.00    0.00    3.00     6  sync_slam_toolb
+
+14:35:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:40        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:41        0     79497    2.00    1.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:41        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:42        0     79497    3.00    0.00    0.00    0.00    3.00    10  sync_slam_toolb
+
+14:35:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:42        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:43        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:35:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:43        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:44        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:44        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:45        0     79497    2.00    0.00    0.00    0.00    2.00     2  sync_slam_toolb
+
+14:35:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:45        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:46        0     79497    3.00    0.00    0.00    0.00    3.00     2  sync_slam_toolb
+
+14:35:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:46        0     79497      0.00      0.00 1502748   42736   0.27  sync_slam_toolb
+
+14:35:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:47        0     79497    5.00    1.00    0.00    0.00    6.00     8  sync_slam_toolb
+
+14:35:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:47        0     79497      8.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:48        0     79497    3.00    0.00    0.00    0.00    3.00     4  sync_slam_toolb
+
+14:35:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:48        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:49        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:35:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:49        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:50        0     79497    3.00    0.00    0.00    0.00    3.00     8  sync_slam_toolb
+
+14:35:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:50        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:51        0     79497    5.00    1.00    0.00    0.00    6.00     0  sync_slam_toolb
+
+14:35:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:51        0     79497      6.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:52        0     79497    4.00    0.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:35:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:52        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:53        0     79497    4.00    1.00    0.00    0.00    5.00     0  sync_slam_toolb
+
+14:35:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:53        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:54        0     79497    3.00    1.00    0.00    0.00    4.00     0  sync_slam_toolb
+
+14:35:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:54        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:55        0     79497    3.00    0.00    0.00    0.00    3.00     4  sync_slam_toolb
+
+14:35:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:55        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:56        0     79497    6.00    1.00    0.00    0.00    7.00     4  sync_slam_toolb
+
+14:35:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:56        0     79497      5.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:57        0     79497    4.00    1.00    0.00    0.00    5.00     2  sync_slam_toolb
+
+14:35:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:57        0     79497      0.00      0.00 1502748   42864   0.27  sync_slam_toolb
+
+14:35:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:58        0     79497    3.00    2.00    0.00    0.00    5.00     2  sync_slam_toolb
+
+14:35:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:58        0     79497     41.00      0.00 1503288   43120   0.28  sync_slam_toolb
+
+14:35:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:35:59        0     79497    4.00    0.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:35:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:35:59        0     79497      0.00      0.00 1503288   43120   0.28  sync_slam_toolb
+
+14:35:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:36:00        0     79497    3.00    1.00    0.00    0.00    4.00     2  sync_slam_toolb
+
+14:35:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:36:00        0     79497      0.00      0.00 1503288   43120   0.28  sync_slam_toolb
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0     79497    3.40    0.44    0.00    0.00    3.84     -  sync_slam_toolb
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:        0     79497      6.87      0.00 1493572   42516   0.27  sync_slam_toolb

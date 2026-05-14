@@ -40,7 +40,7 @@ def generate_launch_description():
         description="Occupancy grid resolution [m/pixel]")
 
     map_size_arg = DeclareLaunchArgument(
-        "map_size", default_value="1024",
+        "map_size", default_value="4096",
         description="Map size in pixels (square)")
 
     use_rviz_arg = DeclareLaunchArgument(
@@ -98,7 +98,7 @@ def generate_launch_description():
             "map_start_x":             0.5,
             "map_start_y":             0.5,
             "map_multi_res_levels":    3,
-            "map_pub_period":          2.0,
+            "map_pub_period":          1.0,
 
             # Update thresholds
             "update_factor_free":      0.4,
@@ -107,8 +107,8 @@ def generate_launch_description():
             "map_update_angle_thresh": 0.9,
 
             # Laser filter
-            "laser_min_dist":          0.4,
-            "laser_max_dist":          30.0,
+            "laser_min_dist":          0.12,
+            "laser_max_dist":          3.5,
             "laser_z_min":             -1.0,
             "laser_z_max":              1.0,
 

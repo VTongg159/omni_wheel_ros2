@@ -1,0 +1,638 @@
+Linux 6.17.0-23-generic (admin1-ASUS-TUF-Gaming-A15-FA507NU-FA507NU) 	05/11/26 	_x86_64_	(16 CPU)
+
+14:30:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:09        0     77106    6.00    1.00    0.00    0.00    7.00     7  hector_mapping_
+
+14:30:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:09        0     77106      2.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:10        0     77106    6.00    0.00    0.00    0.00    6.00    14  hector_mapping_
+
+14:30:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:10        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:11        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:11        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:12        0     77106    5.00    0.00    0.00    0.00    5.00     3  hector_mapping_
+
+14:30:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:12        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:13        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:13        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:14        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:30:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:14        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:15        0     77106    6.00    0.00    0.00    0.00    6.00     3  hector_mapping_
+
+14:30:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:15        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:16        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:30:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:16        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:17        0     77106    6.00    0.00    0.00    0.00    6.00    14  hector_mapping_
+
+14:30:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:17        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:18        0     77106    6.00    0.00    0.00    0.00    6.00     3  hector_mapping_
+
+14:30:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:18        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:19        0     77106    6.00    1.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:30:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:19        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:20        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:30:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:20        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:21        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:21        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:22        0     77106    5.00    0.00    0.00    0.00    5.00     2  hector_mapping_
+
+14:30:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:22        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:23        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:23        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:24        0     77106    6.00    0.00    0.00    0.00    6.00     3  hector_mapping_
+
+14:30:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:24        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:25        0     77106    5.00    1.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:25        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:26        0     77106    6.00    0.00    0.00    0.00    6.00     0  hector_mapping_
+
+14:30:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:26        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:27        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:27        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:28        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:30:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:28        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:29        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:29        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:30        0     77106    5.00    1.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:30        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:31        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:31        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:32        0     77106    6.00    1.00    0.00    0.00    7.00    14  hector_mapping_
+
+14:30:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:32        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:33        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:33        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:34        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:34        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:35        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:30:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:35        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:36        0     77106    5.00    0.00    0.00    0.00    5.00    14  hector_mapping_
+
+14:30:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:36        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:37        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:30:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:37        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:38        0     77106    6.00    1.00    0.00    0.00    7.00    10  hector_mapping_
+
+14:30:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:38        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:39        0     77106    7.00    0.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:30:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:39        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:40        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:30:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:40        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:41        0     77106    5.00    0.00    0.00    0.00    5.00     4  hector_mapping_
+
+14:30:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:41        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:42        0     77106    6.00    1.00    0.00    0.00    7.00    12  hector_mapping_
+
+14:30:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:42        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:43        0     77106    6.00    0.00    0.00    0.00    6.00    14  hector_mapping_
+
+14:30:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:43        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:44        0     77106    6.00    0.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:30:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:44        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:45        0     77106    6.00    1.00    0.00    0.00    7.00     0  hector_mapping_
+
+14:30:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:45        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:46        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:30:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:46        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:47        0     77106    6.00    1.00    0.00    0.00    7.00     0  hector_mapping_
+
+14:30:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:47        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:48        0     77106    5.00    0.00    0.00    0.00    5.00    14  hector_mapping_
+
+14:30:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:48        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:49        0     77106    5.00    1.00    0.00    0.00    6.00     4  hector_mapping_
+
+14:30:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:49        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:50        0     77106    6.00    1.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:30:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:50        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:51        0     77106    6.00    1.00    0.00    0.00    7.00    14  hector_mapping_
+
+14:30:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:51        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:52        0     77106    5.00    1.00    0.00    0.00    6.00    14  hector_mapping_
+
+14:30:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:52        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:53        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:53        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:54        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:30:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:54        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:55        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:30:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:55        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:56        0     77106    5.00    0.00    0.00    0.00    5.00     8  hector_mapping_
+
+14:30:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:56        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:57        0     77106    7.00    0.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:30:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:57        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:58        0     77106    5.00    1.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:30:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:58        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:30:59        0     77106    6.00    1.00    0.00    0.00    7.00     4  hector_mapping_
+
+14:30:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:30:59        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:30:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:00        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:30:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:00        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:01        0     77106    5.00    1.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:31:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:01        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:02        0     77106    6.00    0.00    0.00    0.00    6.00     3  hector_mapping_
+
+14:31:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:02        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:03        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:31:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:03        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:04        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:31:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:04        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:05        0     77106    6.00    0.00    0.00    0.00    6.00     3  hector_mapping_
+
+14:31:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:05        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:06        0     77106    6.00    0.00    0.00    0.00    6.00     3  hector_mapping_
+
+14:31:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:06        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:07        0     77106    6.00    1.00    0.00    0.00    7.00     3  hector_mapping_
+
+14:31:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:07        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:08        0     77106    6.00    0.00    0.00    0.00    6.00     4  hector_mapping_
+
+14:31:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:08        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:09        0     77106    6.00    1.00    0.00    0.00    7.00    12  hector_mapping_
+
+14:31:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:09        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:10        0     77106    6.00    0.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:31:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:10        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:11        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:31:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:11        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:12        0     77106    5.00    0.00    0.00    0.00    5.00     6  hector_mapping_
+
+14:31:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:12        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:13        0     77106    7.00    0.00    0.00    0.00    7.00     0  hector_mapping_
+
+14:31:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:13        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:14        0     77106    5.00    1.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:31:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:14        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:15        0     77106    7.00    0.00    0.00    0.00    7.00     0  hector_mapping_
+
+14:31:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:15        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:16        0     77106    5.00    0.00    0.00    0.00    5.00     0  hector_mapping_
+
+14:31:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:16        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:17        0     77106    6.00    1.00    0.00    0.00    7.00     0  hector_mapping_
+
+14:31:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:17        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:18        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:31:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:18        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:19        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:31:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:19        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:20        0     77106    6.00    0.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:31:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:20        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:21        0     77106    6.00    1.00    0.00    0.00    7.00    10  hector_mapping_
+
+14:31:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:21        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:22        0     77106    5.00    1.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:31:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:22        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:23        0     77106    6.00    0.00    0.00    0.00    6.00     4  hector_mapping_
+
+14:31:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:23        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:24        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:31:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:24        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:25        0     77106    6.00    1.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:31:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:25        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:26        0     77106    6.00    0.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:31:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:26        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:27        0     77106    6.00    1.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:31:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:27        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:28        0     77106    5.00    1.00    0.00    0.00    6.00     2  hector_mapping_
+
+14:31:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:28        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:29        0     77106    6.00    0.00    0.00    0.00    6.00     9  hector_mapping_
+
+14:31:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:29        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:30        0     77106    6.00    0.00    0.00    0.00    6.00     0  hector_mapping_
+
+14:31:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:30        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:31        0     77106    7.00    0.00    0.00    0.00    7.00     4  hector_mapping_
+
+14:31:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:31        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:32        0     77106    6.00    1.00    0.00    0.00    7.00     8  hector_mapping_
+
+14:31:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:32        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:33        0     77106    6.00    0.00    0.00    0.00    6.00     6  hector_mapping_
+
+14:31:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:33        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:34        0     77106    6.00    0.00    0.00    0.00    6.00     5  hector_mapping_
+
+14:31:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:34        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:35        0     77106    5.00    1.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:31:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:35        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:36        0     77106    6.00    1.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:31:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:36        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:37        0     77106    6.00    0.00    0.00    0.00    6.00     4  hector_mapping_
+
+14:31:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:37        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:38        0     77106    5.00    1.00    0.00    0.00    6.00     8  hector_mapping_
+
+14:31:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:38        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:39        0     77106    6.00    1.00    0.00    0.00    7.00     6  hector_mapping_
+
+14:31:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:39        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:40        0     77106    6.00    0.00    0.00    0.00    6.00     0  hector_mapping_
+
+14:31:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:40        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:41        0     77106    6.00    1.00    0.00    0.00    7.00     4  hector_mapping_
+
+14:31:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:41        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:42        0     77106    6.00    1.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:31:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:42        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:43        0     77106    6.00    0.00    0.00    0.00    6.00    10  hector_mapping_
+
+14:31:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:43        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:44        0     77106    6.00    0.00    0.00    0.00    6.00    10  hector_mapping_
+
+14:31:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:44        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:45        0     77106    7.00    1.00    0.00    0.00    8.00     0  hector_mapping_
+
+14:31:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:45        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:46        0     77106    6.00    1.00    0.00    0.00    7.00     8  hector_mapping_
+
+14:31:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:46        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:47        0     77106    7.00    0.00    0.00    0.00    7.00     2  hector_mapping_
+
+14:31:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:47        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:48        0     77106    6.93    0.00    0.00    0.00    6.93     3  hector_mapping_
+
+14:31:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:48        0     77106      0.00      0.00 1206336  434648   2.79  hector_mapping_
+
+14:31:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:49        0     77106    8.00    2.00    0.00    0.00   10.00    14  hector_mapping_
+
+14:31:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:49        0     77106     39.00      0.00 1206928  434776   2.79  hector_mapping_
+
+14:31:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:50        0     77106    3.00    0.00    0.00    0.00    3.00     0  hector_mapping_
+
+14:31:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:50        0     77106      0.00      0.00 1206928  434776   2.79  hector_mapping_
+
+14:31:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:51        0     77106    4.00    0.00    0.00    0.00    4.00    10  hector_mapping_
+
+14:31:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:51        0     77106      0.00      0.00 1206928  434776   2.79  hector_mapping_
+
+14:31:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:52        0     77106    4.00    1.00    0.00    0.00    5.00     6  hector_mapping_
+
+14:31:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:52        0     77106      9.00      0.00 1206876  434776   2.79  hector_mapping_
+
+14:31:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:31:53        0     77106    4.00    0.00    0.00    0.00    4.00     0  hector_mapping_
+
+14:31:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:31:53        0     77106      0.00      0.00 1206876  434776   2.79  hector_mapping_
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0     77106    5.83    0.49    0.00    0.00    6.31     -  hector_mapping_
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:        0     77106      0.48      0.00 1206363  434654   2.79  hector_mapping_

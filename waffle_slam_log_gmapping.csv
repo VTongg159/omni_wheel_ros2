@@ -1,0 +1,734 @@
+Linux 6.17.0-23-generic (admin1-ASUS-TUF-Gaming-A15-FA507NU-FA507NU) 	05/11/26 	_x86_64_	(16 CPU)
+
+14:38:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:09        0     82032   46.00    1.00    0.00    0.00   47.00     0  slam_gmapping
+
+14:38:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:09        0     82032   2025.00      0.00  948572  102792   0.66  slam_gmapping
+
+14:38:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:10        0     82032   12.00    0.00    0.00    0.00   12.00     2  slam_gmapping
+
+14:38:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:10        0     82032      0.00      0.00  948572  102792   0.66  slam_gmapping
+
+14:38:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:11        0     82032   44.00    1.00    0.00    0.00   45.00     4  slam_gmapping
+
+14:38:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:11        0     82032   2036.00      0.00  948572  102868   0.66  slam_gmapping
+
+14:38:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:12        0     82032   10.00    1.00    0.00    0.00   11.00     2  slam_gmapping
+
+14:38:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:12        0     82032      0.00      0.00  948572  102868   0.66  slam_gmapping
+
+14:38:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:13        0     82032   14.00    0.00    0.00    0.00   14.00     2  slam_gmapping
+
+14:38:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:13        0     82032      0.00      0.00  948572  102868   0.66  slam_gmapping
+
+14:38:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:14        0     82032   39.00    1.00    0.00    0.00   40.00     8  slam_gmapping
+
+14:38:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:14        0     82032   2047.00      0.00  948572  102916   0.66  slam_gmapping
+
+14:38:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:15        0     82032   16.00    0.00    0.00    0.00   16.00     8  slam_gmapping
+
+14:38:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:15        0     82032      0.00      0.00  948572  102916   0.66  slam_gmapping
+
+14:38:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:16        0     82032   42.00    0.00    0.00    0.00   42.00     8  slam_gmapping
+
+14:38:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:16        0     82032      0.00      0.00  948572  102916   0.66  slam_gmapping
+
+14:38:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:17        0     82032   24.00    1.00    0.00    0.00   25.00     8  slam_gmapping
+
+14:38:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:17        0     82032   2057.00      0.00  948704  102880   0.66  slam_gmapping
+
+14:38:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:18        0     82032   15.00    0.00    0.00    0.00   15.00     0  slam_gmapping
+
+14:38:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:18        0     82032      0.00      0.00  948704  102880   0.66  slam_gmapping
+
+14:38:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:19        0     82032   45.00    0.00    0.00    0.00   45.00     2  slam_gmapping
+
+14:38:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:19        0     82032   2236.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:20        0     82032   10.00    1.00    0.00    0.00   11.00     4  slam_gmapping
+
+14:38:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:20        0     82032      0.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:21        0     82032   15.00    0.00    0.00    0.00   15.00     0  slam_gmapping
+
+14:38:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:21        0     82032      0.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:22        0     82032   53.00    1.00    0.00    0.00   54.00    12  slam_gmapping
+
+14:38:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:22        0     82032   2415.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:23        0     82032   12.00    0.00    0.00    0.00   12.00    14  slam_gmapping
+
+14:38:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:23        0     82032      0.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:24        0     82032   47.00    1.00    0.00    0.00   48.00     0  slam_gmapping
+
+14:38:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:24        0     82032   2420.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:25        0     82032   15.00    0.00    0.00    0.00   15.00     4  slam_gmapping
+
+14:38:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:25        0     82032      0.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:26        0     82032   35.00    1.00    0.00    0.00   36.00    10  slam_gmapping
+
+14:38:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:26        0     82032      1.00      0.00  948704  102756   0.66  slam_gmapping
+
+14:38:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:27        0     82032   13.00    0.00    0.00    0.00   13.00    10  slam_gmapping
+
+14:38:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:27        0     82032   2422.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:28        0     82032   21.00    1.00    0.00    0.00   22.00     4  slam_gmapping
+
+14:38:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:28        0     82032      0.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:29        0     82032   42.00    1.00    0.00    0.00   43.00     0  slam_gmapping
+
+14:38:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:29        0     82032   2425.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:30        0     82032   14.00    0.00    0.00    0.00   14.00     6  slam_gmapping
+
+14:38:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:30        0     82032      0.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:31        0     82032   33.00    1.00    0.00    0.00   34.00    12  slam_gmapping
+
+14:38:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:31        0     82032      1.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:32        0     82032   31.00    0.00    0.00    0.00   31.00     6  slam_gmapping
+
+14:38:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:32        0     82032   2597.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:33        0     82032   14.00    1.00    0.00    0.00   15.00     6  slam_gmapping
+
+14:38:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:33        0     82032      0.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:34        0     82032   44.00    1.00    0.00    0.00   45.00     2  slam_gmapping
+
+14:38:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:34        0     82032   2603.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:35        0     82032   10.00    0.00    0.00    0.00   10.00    10  slam_gmapping
+
+14:38:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:35        0     82032      0.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:36        0     82032   14.85    0.99    0.00    0.00   15.84     2  slam_gmapping
+
+14:38:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:36        0     82032      0.00      0.00  948704  102760   0.66  slam_gmapping
+
+14:38:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:37        0     82032   46.00    3.00    0.00    0.00   49.00    12  slam_gmapping
+
+14:38:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:37        0     82032  17264.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:38        0     82032   25.00    1.00    0.00    0.00   26.00     6  slam_gmapping
+
+14:38:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:38        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:39        0     82032   46.00    0.00    0.00    0.00   46.00    14  slam_gmapping
+
+14:38:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:39        0     82032   2640.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:40        0     82032   12.00    0.00    0.00    0.00   12.00     2  slam_gmapping
+
+14:38:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:40        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:41        0     82032   15.00    1.00    0.00    0.00   16.00     0  slam_gmapping
+
+14:38:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:41        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:42        0     82032   46.00    0.00    0.00    0.00   46.00    14  slam_gmapping
+
+14:38:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:42        0     82032   2951.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:43        0     82032   14.00    1.00    0.00    0.00   15.00     0  slam_gmapping
+
+14:38:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:43        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:44        0     82032   14.00    0.00    0.00    0.00   14.00    14  slam_gmapping
+
+14:38:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:44        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:45        0     82032   45.00    0.00    0.00    0.00   45.00     2  slam_gmapping
+
+14:38:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:45        0     82032   2955.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:46        0     82032   11.00    1.00    0.00    0.00   12.00     4  slam_gmapping
+
+14:38:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:46        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:47        0     82032   17.00    0.00    0.00    0.00   17.00     8  slam_gmapping
+
+14:38:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:47        0     82032      0.00      0.00 1001084  155208   1.00  slam_gmapping
+
+14:38:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:48        0     82032   46.00    1.00    0.00    0.00   47.00     8  slam_gmapping
+
+14:38:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:48        0     82032   2959.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:49        0     82032   10.00    0.00    0.00    0.00   10.00     6  slam_gmapping
+
+14:38:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:49        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:50        0     82032   14.00    0.00    0.00    0.00   14.00    10  slam_gmapping
+
+14:38:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:50        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:51        0     82032   44.00    1.00    0.00    0.00   45.00    10  slam_gmapping
+
+14:38:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:51        0     82032   2964.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:52        0     82032   15.00    0.00    0.00    0.00   15.00     8  slam_gmapping
+
+14:38:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:52        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:53        0     82032   35.00    0.00    0.00    0.00   35.00     8  slam_gmapping
+
+14:38:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:53        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:54        0     82032   38.00    1.00    0.00    0.00   39.00    14  slam_gmapping
+
+14:38:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:54        0     82032   2969.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:55        0     82032   22.00    0.00    0.00    0.00   22.00     8  slam_gmapping
+
+14:38:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:55        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:56        0     82032   10.00    0.00    0.00    0.00   10.00     0  slam_gmapping
+
+14:38:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:56        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:57        0     82032   50.00    1.00    0.00    0.00   51.00     0  slam_gmapping
+
+14:38:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:57        0     82032   2975.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:58        0     82032   14.00    0.00    0.00    0.00   14.00     4  slam_gmapping
+
+14:38:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:58        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:38:59        0     82032   20.00    0.00    0.00    0.00   20.00    12  slam_gmapping
+
+14:38:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:38:59        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:38:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:00        0     82032   38.00    1.00    0.00    0.00   39.00    12  slam_gmapping
+
+14:38:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:00        0     82032   2979.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:01        0     82032   16.00    0.00    0.00    0.00   16.00    12  slam_gmapping
+
+14:39:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:01        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:02        0     82032   46.00    1.00    0.00    0.00   47.00     6  slam_gmapping
+
+14:39:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:02        0     82032   2984.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:03        0     82032   11.00    0.00    0.00    0.00   11.00     4  slam_gmapping
+
+14:39:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:03        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:04        0     82032   15.00    0.00    0.00    0.00   15.00     2  slam_gmapping
+
+14:39:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:04        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:05        0     82032   51.00    1.00    0.00    0.00   52.00     2  slam_gmapping
+
+14:39:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:05        0     82032   2988.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:06        0     82032   18.00    0.00    0.00    0.00   18.00     2  slam_gmapping
+
+14:39:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:06        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:07        0     82032   22.00    0.00    0.00    0.00   22.00     4  slam_gmapping
+
+14:39:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:07        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:08        0     82032   34.00    1.00    0.00    0.00   35.00     4  slam_gmapping
+
+14:39:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:08        0     82032   2993.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:09        0     82032   15.00    0.00    0.00    0.00   15.00     8  slam_gmapping
+
+14:39:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:09        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:10        0     82032   41.00    1.00    0.00    0.00   42.00     8  slam_gmapping
+
+14:39:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:10        0     82032    651.00      0.00 1001084  157784   1.01  slam_gmapping
+
+14:39:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:11        0     82032   22.00    1.00    0.00    0.00   23.00    14  slam_gmapping
+
+14:39:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:11        0     82032   2347.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:12        0     82032   21.00    0.00    0.00    0.00   21.00     8  slam_gmapping
+
+14:39:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:12        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:13        0     82032   45.00    1.00    0.00    0.00   46.00    10  slam_gmapping
+
+14:39:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:13        0     82032   3004.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:14        0     82032   17.00    0.00    0.00    0.00   17.00    12  slam_gmapping
+
+14:39:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:14        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:15        0     82032   19.00    0.00    0.00    0.00   19.00    14  slam_gmapping
+
+14:39:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:15        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:16        0     82032   41.00    1.00    0.00    0.00   42.00     6  slam_gmapping
+
+14:39:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:16        0     82032   3009.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:17        0     82032   15.00    0.00    0.00    0.00   15.00     2  slam_gmapping
+
+14:39:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:17        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:18        0     82032   26.00    1.00    0.00    0.00   27.00     2  slam_gmapping
+
+14:39:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:18        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:19        0     82032   32.00    1.00    0.00    0.00   33.00     0  slam_gmapping
+
+14:39:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:19        0     82032   3013.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:20        0     82032   22.00    0.00    0.00    0.00   22.00     6  slam_gmapping
+
+14:39:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:20        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:21        0     82032   47.00    2.00    0.00    0.00   49.00     2  slam_gmapping
+
+14:39:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:21        0     82032   3018.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:22        0     82032   27.00    0.00    0.00    0.00   27.00     2  slam_gmapping
+
+14:39:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:22        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:23        0     82032   43.00    1.00    0.00    0.00   44.00     2  slam_gmapping
+
+14:39:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:23        0     82032   3024.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:24        0     82032   17.00    0.00    0.00    0.00   17.00     2  slam_gmapping
+
+14:39:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:24        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:25        0     82032   32.00    1.00    0.00    0.00   33.00     2  slam_gmapping
+
+14:39:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:25        0     82032      0.00      0.00 1001084  155224   1.00  slam_gmapping
+
+14:39:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:26        0     82032   27.00    0.00    0.00    0.00   27.00     4  slam_gmapping
+
+14:39:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:26        0     82032   3027.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:27        0     82032   15.00    1.00    0.00    0.00   16.00     2  slam_gmapping
+
+14:39:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:27        0     82032      0.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:28        0     82032   29.00    0.00    0.00    0.00   29.00     3  slam_gmapping
+
+14:39:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:28        0     82032      0.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:29        0     82032   43.00    0.00    0.00    0.00   43.00     4  slam_gmapping
+
+14:39:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:29        0     82032   3032.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:30        0     82032    2.00    1.00    0.00    0.00    3.00     8  slam_gmapping
+
+14:39:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:30        0     82032      0.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:31        0     82032   57.00    1.00    0.00    0.00   58.00     8  slam_gmapping
+
+14:39:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:31        0     82032   3037.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:32        0     82032   14.00    0.00    0.00    0.00   14.00     2  slam_gmapping
+
+14:39:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:32        0     82032      0.00      0.00 1001084  155308   1.00  slam_gmapping
+
+14:39:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:33        0     82032   44.00    0.00    0.00    0.00   44.00     4  slam_gmapping
+
+14:39:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:33        0     82032   3042.00      0.00 1001084  155320   1.00  slam_gmapping
+
+14:39:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:34        0     82032   12.00    1.00    0.00    0.00   13.00     2  slam_gmapping
+
+14:39:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:34        0     82032      0.00      0.00 1001084  155320   1.00  slam_gmapping
+
+14:39:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:35        0     82032   45.00    0.00    0.00    0.00   45.00    12  slam_gmapping
+
+14:39:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:35        0     82032   3045.00      0.00 1001084  155244   1.00  slam_gmapping
+
+14:39:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:36        0     82032   11.00    1.00    0.00    0.00   12.00     6  slam_gmapping
+
+14:39:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:36        0     82032      0.00      0.00 1001084  155244   1.00  slam_gmapping
+
+14:39:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:37        0     82032   15.00    0.00    0.00    0.00   15.00    14  slam_gmapping
+
+14:39:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:37        0     82032      0.00      0.00 1001084  155244   1.00  slam_gmapping
+
+14:39:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:38        0     82032   54.00    1.00    0.00    0.00   55.00    14  slam_gmapping
+
+14:39:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:38        0     82032   3050.00      0.00 1001084  155288   1.00  slam_gmapping
+
+14:39:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:39        0     82032   11.00    0.00    0.00    0.00   11.00    12  slam_gmapping
+
+14:39:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:39        0     82032      0.00      0.00 1001084  155288   1.00  slam_gmapping
+
+14:39:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:40        0     82032   16.00    0.00    0.00    0.00   16.00     8  slam_gmapping
+
+14:39:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:40        0     82032      0.00      0.00 1001084  155288   1.00  slam_gmapping
+
+14:39:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:41        0     82032   48.00    1.00    0.00    0.00   49.00     8  slam_gmapping
+
+14:39:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:41        0     82032   3055.00      0.00 1001084  155328   1.00  slam_gmapping
+
+14:39:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:42        0     82032   12.00    0.00    0.00    0.00   12.00     2  slam_gmapping
+
+14:39:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:42        0     82032      0.00      0.00 1001084  155328   1.00  slam_gmapping
+
+14:39:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:43        0     82032   40.00    0.00    0.00    0.00   40.00     4  slam_gmapping
+
+14:39:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:43        0     82032    193.00      0.00 1001084  156096   1.00  slam_gmapping
+
+14:39:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:44        0     82032   16.00    1.00    0.00    0.00   17.00     7  slam_gmapping
+
+14:39:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:44        0     82032   2865.00      0.00 1001084  155400   1.00  slam_gmapping
+
+14:39:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:45        0     82032   34.00    0.00    0.00    0.00   34.00     8  slam_gmapping
+
+14:39:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:45        0     82032      1.00      0.00 1001084  155400   1.00  slam_gmapping
+
+14:39:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:46        0     82032   42.00    1.00    0.00    0.00   43.00     7  slam_gmapping
+
+14:39:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:46        0     82032   3063.00      0.00 1001084  155420   1.00  slam_gmapping
+
+14:39:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:47        0     82032    7.00    0.00    0.00    0.00    7.00     7  slam_gmapping
+
+14:39:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:47        0     82032      0.00      0.00 1001084  155420   1.00  slam_gmapping
+
+14:39:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:48        0     82032   52.00    0.00    0.00    0.00   52.00     7  slam_gmapping
+
+14:39:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:48        0     82032   3068.00      0.00 1001084  155472   1.00  slam_gmapping
+
+14:39:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:49        0     82032    2.00    1.00    0.00    0.00    3.00     7  slam_gmapping
+
+14:39:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:49        0     82032      0.00      0.00 1001084  155472   1.00  slam_gmapping
+
+14:39:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:50        0     82032   18.00    0.00    0.00    0.00   18.00     2  slam_gmapping
+
+14:39:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:50        0     82032      0.00      0.00 1001084  155472   1.00  slam_gmapping
+
+14:39:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:51        0     82032   50.00    1.00    0.00    0.00   51.00     2  slam_gmapping
+
+14:39:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:51        0     82032   3073.00      0.00 1001084  155376   1.00  slam_gmapping
+
+14:39:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:52        0     82032   14.00    0.00    0.00    0.00   14.00     8  slam_gmapping
+
+14:39:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:52        0     82032      0.00      0.00 1001084  155376   1.00  slam_gmapping
+
+14:39:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:53        0     82032   46.00    0.00    0.00    0.00   46.00     6  slam_gmapping
+
+14:39:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:53        0     82032   3076.00      0.00 1001084  155332   1.00  slam_gmapping
+
+14:39:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:54        0     82032   10.00    1.00    0.00    0.00   11.00    12  slam_gmapping
+
+14:39:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:54        0     82032      0.00      0.00 1001084  155332   1.00  slam_gmapping
+
+14:39:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:55        0     82032   11.00    0.00    0.00    0.00   11.00    10  slam_gmapping
+
+14:39:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:55        0     82032      0.00      0.00 1001084  155332   1.00  slam_gmapping
+
+14:39:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:56        0     82032   43.00    1.00    0.00    0.00   44.00     6  slam_gmapping
+
+14:39:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:56        0     82032   3080.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:39:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:57        0     82032   11.00    1.00    0.00    0.00   12.00     2  slam_gmapping
+
+14:39:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:57        0     82032      0.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:39:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:58        0     82032   16.00    0.00    0.00    0.00   16.00     2  slam_gmapping
+
+14:39:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:58        0     82032      0.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:39:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:39:59        0     82032   44.00    1.00    0.00    0.00   45.00    14  slam_gmapping
+
+14:39:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:39:59        0     82032   3084.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:39:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:00        0     82032   11.00    0.00    0.00    0.00   11.00     2  slam_gmapping
+
+14:39:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:00        0     82032      0.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:40:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:01        0     82032   17.00    0.00    0.00    0.00   17.00    12  slam_gmapping
+
+14:40:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:01        0     82032      0.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:40:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:02        0     82032    3.00    1.00    0.00    0.00    4.00    14  slam_gmapping
+
+14:40:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:02        0     82032      0.00      0.00 1001084  155232   1.00  slam_gmapping
+
+14:40:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:03        0     82032   58.00    1.00    0.00    0.00   59.00     2  slam_gmapping
+
+14:40:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:03        0     82032   3089.00      0.00 1001084  155332   1.00  slam_gmapping
+
+14:40:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:04        0     82032    2.00    1.00    0.00    0.00    3.00     0  slam_gmapping
+
+14:40:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:04        0     82032      0.00      0.00 1001084  155332   1.00  slam_gmapping
+
+14:40:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:05        0     82032    3.00    1.00    0.00    0.00    4.00    14  slam_gmapping
+
+14:40:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:05        0     82032      0.00      0.00 1001084  155332   1.00  slam_gmapping
+
+14:40:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:06        0     82032    2.00    0.00    0.00    0.00    2.00    12  slam_gmapping
+
+14:40:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:06        0     82032      3.00      0.00 1001624  155332   1.00  slam_gmapping
+
+14:40:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:07        0     82032    0.00    0.00    0.00    0.00    0.00    12  slam_gmapping
+
+14:40:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:07        0     82032      0.00      0.00 1001572  155332   1.00  slam_gmapping
+
+14:40:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:08        0     82032    1.00    0.00    0.00    0.00    1.00    12  slam_gmapping
+
+14:40:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:08        0     82032      0.00      0.00 1001032  155332   1.00  slam_gmapping
+
+14:40:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+14:40:09        0     82032    1.00    1.00    0.00    0.00    2.00    12  slam_gmapping
+
+14:40:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:40:09        0     82032      0.00      0.00 1001032  155332   1.00  slam_gmapping
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0     82032   25.47    0.50    0.00    0.00   25.96     -  slam_gmapping
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:        0     82032   1147.47      0.00  988962  143154   0.92  slam_gmapping

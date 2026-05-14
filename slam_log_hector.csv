@@ -1,0 +1,50 @@
+Linux 6.17.0-23-generic (admin1-ASUS-TUF-Gaming-A15-FA507NU-FA507NU) 	05/09/26 	_x86_64_	(16 CPU)
+
+07:54:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:41        0     55350    3.00    1.00    0.00    0.00    4.00     2  hector_mapping_
+
+07:54:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:41        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+07:54:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:42        0     55350    2.00    0.00    0.00    0.00    2.00     2  hector_mapping_
+
+07:54:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:42        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+07:54:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:43        0     55350    2.00    0.00    0.00    0.00    2.00     2  hector_mapping_
+
+07:54:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:43        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+07:54:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:44        0     55350    3.00    0.00    0.00    0.00    3.00     2  hector_mapping_
+
+07:54:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:44        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+07:54:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:45        0     55350    2.00    1.00    0.00    0.00    3.00     2  hector_mapping_
+
+07:54:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:45        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+07:54:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:46        0     55350    3.00    0.00    0.00    0.00    3.00     2  hector_mapping_
+
+07:54:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:46        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+07:54:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+07:54:47        0     55350    2.00    0.00    0.00    0.00    2.00    14  hector_mapping_
+
+07:54:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+07:54:47        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0     55350    2.43    0.29    0.00    0.00    2.71     -  hector_mapping_
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:        0     55350      0.00      0.00  676404   51160   0.33  hector_mapping_

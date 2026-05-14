@@ -1,19 +1,4 @@
--- Copyright 2016 The Cartographer Authors
---
--- Licensed under the Apache License, Version 2.0 (the "License");
--- you may not use this file except in compliance with the License.
--- You may obtain a copy of the License at
---
---      http://www.apache.org/licenses/LICENSE-2.0
---
--- Unless required by applicable law or agreed to in writing, software
--- distributed under the License is distributed on an "AS IS" BASIS,
--- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
--- See the License for the specific language governing permissions and
--- limitations under the License.
-
--- /* Author: Darby Lim */
-
+-- my_robot_lds_2d.lua
 include "map_builder.lua"
 include "trajectory_builder.lua"
 
@@ -21,12 +6,12 @@ options = {
   map_builder = MAP_BUILDER,
   trajectory_builder = TRAJECTORY_BUILDER,
   map_frame = "map",
-  tracking_frame = "imu_link",
+  tracking_frame = "base_link", -- Tối ưu: Dùng imu_link của Waffle Pi
   published_frame = "odom",
   odom_frame = "odom",
-  provide_odom_frame = false,
+  provide_odom_frame = false, 
   publish_frame_projected_to_2d = true,
-  use_odometry = true,
+  use_odometry = true, 
   use_nav_sat = false,
   use_landmarks = false,
   num_laser_scans = 1,
@@ -46,16 +31,40 @@ options = {
 
 MAP_BUILDER.use_trajectory_builder_2d = true
 
+-- ===============================================
+-- 1. LOCAL SLAM
+-- ===============================================
 TRAJECTORY_BUILDER_2D.min_range = 0.12
-TRAJECTORY_BUILDER_2D.max_range = 3.5
-TRAJECTORY_BUILDER_2D.missing_data_ray_length = 3.
-TRAJECTORY_BUILDER_2D.use_imu_data = false
-TRAJECTORY_BUILDER_2D.use_online_correlative_scan_matching = true 
-TRAJECTORY_BUILDER_2D.motion_filter.max_angle_radians = math.rad(0.1)
+TRAJECTORY_BUILDER_2D.max_range = 20.0-- Phù hợp với giới hạn vật lý của LDS-01/02
+TRAJECTORY_BUILDER_2D.missing_data_ray_length = 20.0
+TRAJECTORY_BUILDER_2D.use_imu_data = false -- Tối ưu: Bật IMU để chống trượt khi xoay
 
-POSE_GRAPH.constraint_builder.min_score = 0.65
+-- Tối ưu: Bật Correlative Scan Matching để bù trừ Odom
+TRAJECTORY_BUILDER_2D.use_online_correlative_scan_matching = true
+TRAJECTORY_BUILDER_2D.real_time_correlative_scan_matcher.linear_search_window = 0.1
+TRAJECTORY_BUILDER_2D.real_time_correlative_scan_matcher.angular_search_window = math.rad(20.)
+
+-- Trọng số Ceres
+TRAJECTORY_BUILDER_2D.ceres_scan_matcher.translation_weight = 10
+TRAJECTORY_BUILDER_2D.ceres_scan_matcher.rotation_weight = 40
+
+-- Lọc chuyển động: Giảm tải CPU, lấy mẫu ở mức độ hợp lý
+TRAJECTORY_BUILDER_2D.motion_filter.max_angle_radians = math.rad(0.05) -- Khoảng 5.7 độ
+TRAJECTORY_BUILDER_2D.motion_filter.max_distance_meters = 0.05 -- 10 cm
+
+
+TRAJECTORY_BUILDER_2D.submaps.grid_options_2d.resolution = 0.05 -- Tối ưu: 5cm giúp nhẹ máy hơn mà vẫn đủ sắc nét
+TRAJECTORY_BUILDER_2D.submaps.num_range_data = 120
+
+-- ===============================================
+-- 2. GLOBAL SLAM: Pose Graph & Loop Closure
+-- ===============================================
+POSE_GRAPH.optimize_every_n_nodes = 50 -- Tối ưu: Không cần tối ưu liên tục trong map nhỏ
+
+POSE_GRAPH.constraint_builder.min_score = 0.65 
 POSE_GRAPH.constraint_builder.global_localization_min_score = 0.7
 
--- POSE_GRAPH.optimize_every_n_nodes = 0
+POSE_GRAPH.optimization_problem.odometry_translation_weight = 1e4
+POSE_GRAPH.optimization_problem.odometry_rotation_weight = 1e4
 
 return options

@@ -119,7 +119,7 @@
       <always_on>true</always_on>
       <update_rate>100</update_rate>
       <plugin name="imu_plugin" filename="libgazebo_ros_imu_sensor.so">
-        <ros><remapping>~/out:=imu/data</remapping></ros>
+        <ros><remapping>~/out:=imu</remapping></ros>
         <initial_orientation_as_reference>false</initial_orientation_as_reference>
       </plugin>
     </sensor>
@@ -141,7 +141,7 @@
     <material>Gazebo/Black</material>
     <sensor name="lidar" type="ray">
       <always_on>true</always_on>
-      <visualize>true</visualize> <update_rate>10</update_rate>
+      <visualize>false</visualize> <update_rate>10</update_rate>
       <ray>
         <scan>
           <horizontal>
@@ -242,7 +242,7 @@
       <state_interface name="velocity"/>
     </joint>
   </ros2_control>
-!-- Transmissions for ROS 2 Control -->
+<!-- Transmissions for ROS 2 Control -->
   <transmission name="l1_transmission">
     <type>transmission_interface/SimpleTransmission</type>
     <joint name="l1">
