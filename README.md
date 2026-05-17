@@ -84,13 +84,7 @@ ros2 launch my_robot_cartographer cartographer.launch.py use_sim_time:=true
 ```bash
 ros2 launch hector_slam_ros2 hector_slam.launch.py use_sim_time:=true
 
-ros2 run rviz2 rviz2
 ```
-
-Trong RViz:
-
-- Add → Map
-- Topic: `/map`
 
 ---
 
@@ -99,12 +93,7 @@ Trong RViz:
 ```bash
 ros2 launch slam_toolbox online_sync_launch.py use_sim_time:=true
 
-rviz2 -d src/my_robot/slam_karto/config/slam_toolbox_default.rviz
 ```
-Trong RViz:
-
-- Add → Map
-- Topic: `/map`
 
 
 ---
@@ -114,13 +103,7 @@ Trong RViz:
 ```bash
 ros2 launch slam_gmapping slam_gmapping.launch.py use_sim_time:=true
 
-ros2 run rviz2 rviz2
 ```
-Trong RViz:
-
-- Add → Map
-- Topic: `/map`
-
 
 ---
 
