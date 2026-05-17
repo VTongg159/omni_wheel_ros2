@@ -1,8 +1,6 @@
-# ✅ SAU (Humble-compatible)
 cmake_minimum_required(VERSION 3.8)
 project(slam_gmapping)
 
-# Humble yêu cầu C++17
 if(NOT CMAKE_CXX_STANDARD)
   set(CMAKE_CXX_STANDARD 17)
   set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -35,7 +33,7 @@ add_executable(slam_gmapping
   
 )
 
-# Humble: dùng target_link_libraries thay vì ament_target_dependencies cho Boost
+
 ament_target_dependencies(slam_gmapping
   rclcpp
   tf2
@@ -48,7 +46,7 @@ ament_target_dependencies(slam_gmapping
   message_filters
 )
 
-# Link openslam và Boost riêng
+
 target_link_libraries(slam_gmapping
   ${openslam_gmapping_LIBRARIES}
   ${Boost_LIBRARIES}
@@ -58,7 +56,7 @@ install(TARGETS slam_gmapping
   DESTINATION lib/${PROJECT_NAME}
 )
 
-install(DIRECTORY launch params
+install(DIRECTORY launch params rviz
   DESTINATION share/${PROJECT_NAME}
 )
 

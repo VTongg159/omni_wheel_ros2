@@ -4,7 +4,7 @@ slam_gmapping:
     base_frame: "base_link"
     map_frame: "map"
     odom_frame: "odom"
-    scan_topic: "scan" # Cần sửa code C++ để nhận tham số này
+    scan_topic: "scan" 
 
     # Map update
     map_update_interval: 1.0          
@@ -12,8 +12,8 @@ slam_gmapping:
     transform_tolerance: 0.1
 
     # Laser model
-    maxRange: 3.5                     # Tầm xa vật lý
-    maxUrange: 3.0                    # Tầm xa tin cậy để vẽ bản đồ
+    maxRange: 8.0                     
+    maxUrange: 6.5                   
     sigma: 0.05
     kernelSize: 1
     lstep: 0.05
@@ -23,25 +23,25 @@ slam_gmapping:
     ogain: 3.0
     lskip: 0
 
-    # Motion model (Càng thấp càng tốn tài nguyên nhưng bản đồ càng chuẩn)
+    # Motion model 
     srr: 0.1
     srt: 0.2
     str: 0.1
     stt: 0.2
-    linearUpdate: 0.2                 # Giảm xuống 0.2 để vẽ chi tiết hơn
-    angularUpdate: 0.2                # Giảm xuống 0.2 
-    temporalUpdate: 2.0               # Tự động cập nhật sau 2s nếu robot đứng yên
+    linearUpdate: 0.2              
+    angularUpdate: 0.2                
+    temporalUpdate: 2.0               
     resampleThreshold: 0.5
 
     # Particles
-    particles: 40                     # 40 là mức ổn định cho hầu hết phần cứng
+    particles: 40                     
 
-    # Map extent (xmin/ymin đến xmax/ymax nên để rộng nếu không biết kích thước phòng)
+    # Map extent 
     xmin: -50.0
     ymin: -50.0
     xmax: 50.0
     ymax: 50.0
-    delta: 0.05                       # Độ phân giải 5cm/pixel
+    delta: 0.05                    
 
     # Threshold
     occ_thresh: 0.25

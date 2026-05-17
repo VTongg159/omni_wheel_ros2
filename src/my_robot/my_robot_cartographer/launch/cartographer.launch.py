@@ -57,9 +57,7 @@ def generate_launch_description():
             default_value='false',
             description='Use simulation (Gazebo) clock if true'),
 
-        # ---------------------------------------------------------
-        # NODE CARTOGRAPHER CHÍNH (Đã được tích hợp chuẩn remappings)
-        # ---------------------------------------------------------
+
         Node(
             package='cartographer_ros',
             executable='cartographer_node',
@@ -90,9 +88,6 @@ def generate_launch_description():
                               'publish_period_sec': publish_period_sec}.items(),
         ),
 
-        # ---------------------------------------------------------
-        # NODE RVIZ (Đã được khôi phục)
-        # ---------------------------------------------------------
         Node(
             package='rviz2',
             executable='rviz2',

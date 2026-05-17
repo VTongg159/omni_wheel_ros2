@@ -8,7 +8,7 @@ from launch.conditions import IfCondition
 from launch.events import matches_action
 from launch.substitutions import (AndSubstitution, LaunchConfiguration,
                                   NotSubstitution)
-from launch_ros.actions import LifecycleNode
+from launch_ros.actions import LifecycleNode, Node
 from launch_ros.event_handlers import OnStateTransition
 from launch_ros.events.lifecycle import ChangeState
 from lifecycle_msgs.msg import Transition
@@ -20,6 +20,14 @@ def generate_launch_description():
     use_lifecycle_manager = LaunchConfiguration("use_lifecycle_manager")
     use_sim_time = LaunchConfiguration('use_sim_time')
     slam_params_file = LaunchConfiguration('slam_params_file')
+    use_rviz = LaunchConfiguration('use_rviz') 
+
+
+    rviz_config_file = os.path.join(
+        get_package_share_directory('slam_toolbox'),
+        'config',
+        'slam_toolbox_default.rviz'
+    )
 
     declare_autostart_cmd = DeclareLaunchArgument(
         'autostart', default_value='true',
@@ -37,6 +45,13 @@ def generate_launch_description():
         default_value=os.path.join(get_package_share_directory("slam_toolbox"),
                                    'config', 'mapper_params_online_sync.yaml'),
         description='Full path to the ROS2 parameters file to use for the slam_toolbox node')
+    
+
+    declare_use_rviz_cmd = DeclareLaunchArgument(
+        'use_rviz',
+        default_value='true',
+        description='Launch RViz2 for visualization'
+    )
 
     # Perform substitution `$find-pkg-share`
     slam_params_file_w_subst = ParameterFile(
@@ -57,6 +72,16 @@ def generate_launch_description():
         name='slam_toolbox',
         output='screen',
         namespace=''
+    )
+
+    rviz_node = Node(
+        package='rviz2',
+        executable='rviz2',
+        name='rviz2',
+        output='screen',
+        arguments=['-d', rviz_config_file], 
+        parameters=[{'use_sim_time': use_sim_time}],
+        condition=IfCondition(use_rviz)
     )
 
     configure_event = EmitEvent(
@@ -89,7 +114,11 @@ def generate_launch_description():
     ld.add_action(declare_use_lifecycle_manager)
     ld.add_action(declare_use_sim_time_argument)
     ld.add_action(declare_slam_params_file_cmd)
+    ld.add_action(declare_use_rviz_cmd) 
+    
     ld.add_action(start_sync_slam_toolbox_node)
+    ld.add_action(rviz_node) 
+
     ld.add_action(configure_event)
     ld.add_action(activate_event)
 

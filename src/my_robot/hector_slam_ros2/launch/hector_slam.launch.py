@@ -6,7 +6,7 @@ ROS2 Humble launch file for hector_slam_ros2.
 Usage:
   ros2 launch hector_slam_ros2 hector_slam.launch.py
   ros2 launch hector_slam_ros2 hector_slam.launch.py scan_topic:=/my_lidar/scan
-  ros2 launch hector_slam_ros2 hector_slam.launch.py use_rviz:=true
+  ros2 launch hector_slam_ros2 hector_slam.launch.py use_rviz:=false
 """
 
 import os
@@ -43,8 +43,9 @@ def generate_launch_description():
         "map_size", default_value="4096",
         description="Map size in pixels (square)")
 
+    # ĐÃ SỬA: Thay đổi default_value từ "false" thành "true" để tự động mở RViz
     use_rviz_arg = DeclareLaunchArgument(
-        "use_rviz", default_value="false",
+        "use_rviz", default_value="true",
         description="Launch RViz2 for visualisation")
 
     use_sim_time_arg = DeclareLaunchArgument(
@@ -108,7 +109,7 @@ def generate_launch_description():
 
             # Laser filter
             "laser_min_dist":          0.12,
-            "laser_max_dist":          3.5,
+            "laser_max_dist":          8.0,
             "laser_z_min":             -1.0,
             "laser_z_max":              1.0,
 

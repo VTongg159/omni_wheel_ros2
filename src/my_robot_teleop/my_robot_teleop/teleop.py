@@ -29,8 +29,8 @@ def main():
     rclpy.init() 
     node = rclpy.create_node('omni_teleop') 
     pub = node.create_publisher(Twist, 'cmd_vel', 10)
-    speed = 0.5 
-    turn = 1.0  
+    speed = 1.0 
+    turn = 2.0  
     x = 0.0
     th = 0.0
     try:

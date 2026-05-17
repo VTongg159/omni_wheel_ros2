@@ -59,7 +59,7 @@ hector_mapping:
     # ── Laser filter ──────────────────────────────────────────────────────────
     # Scan points outside [laser_min_dist, laser_max_dist] are discarded.
     laser_min_dist:  0.12    # metres – discard close-range noise
-    laser_max_dist:  3.5   # metres – discard far range artefacts
+    laser_max_dist:  8.0   # metres – discard far range artefacts
 
     # 3D robots: filter by laser beam height above ground.
     laser_z_min: -1.0
